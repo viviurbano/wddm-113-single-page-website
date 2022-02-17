@@ -88,8 +88,8 @@ header {
 
 .started {
   background-color: #ef3c46;
-  border-style: solid;
   border-color: #ef3c46;
+  border-style: solid;
   margin-left: 80px;
 }
 
@@ -100,8 +100,6 @@ header {
 
 .container {
   display: flex;
-  /* parece que não precisa */
-  /* flex-direction: row; */
 }
 
 img {
